@@ -4,11 +4,15 @@ title: Publication
 weight: 1
 permalink: /publication/
 ---
-  
-  
-  
-  
-1.	What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues (2019)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+1.	What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues (2019)  [[Paper]]()
 
 	**Yu Qin**, Yi Yang
 
