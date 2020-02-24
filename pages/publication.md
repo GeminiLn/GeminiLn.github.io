@@ -9,7 +9,7 @@ permalink: /publication/
 <br/>
 <br/>
 
-1.	What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues (2019)  [[Paper]]()
+1.	What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues (2019)  [[Paper]](/publication/ACL2019.pdf) [[Data]](https://github.com/GeminiLn/EarningsCall_Dataset)
 
 	**Yu Qin**, Yi Yang
 
