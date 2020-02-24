@@ -4,10 +4,7 @@ title: Publication
 weight: 1
 permalink: /publication/
 ---
-<br/>
-<br/>
-<br/>
-<br/>
+
 <br/>
 <br/>
 <br/>
