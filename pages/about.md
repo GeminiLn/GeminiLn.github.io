@@ -16,7 +16,7 @@ My research interests include **multimodal computing**, **data mining**, and **m
 
 ---
 
-#### Education
+#### Education<br>
 
 2018 	**Renmin University of China, China**<br>
 			  B.S. Computer Science & Financial Technology
