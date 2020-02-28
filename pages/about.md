@@ -13,3 +13,15 @@ Hi, I am **Yu Qin** <br>
 I am currently a Ph.D student at School of Information, Renmin University of China. <br>
 
 My research interests include **multimodal computing**, **data mining**, and **machine learning interpretation**.
+
+---
+
+#### Education
+
+2018 Renmin University of China, China
+	B.S. Computer Science & Financial Technology
+	
+---
+
+
+
