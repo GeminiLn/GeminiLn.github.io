@@ -15,12 +15,11 @@ I am currently a Ph.D student at School of Information, Renmin University of Chi
 My research interests include **multimodal computing**, **data mining**, and **machine learning interpretation**.
 
 ---
-
+<br>
 #### Education 
 <br>
-<br>
 2018 &ensp; **Renmin University of China, China**<br>
-&emsp; B.S. Computer Science & Financial Technology
+&emsp; &emsp; B.S. Computer Science & Financial Technology
 	
 
 ---
