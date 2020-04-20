@@ -13,7 +13,7 @@ permalink: /publication/
 
 	Zhen Ye, **Yu Qin**, Wei Xu
 
-	*Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI 2020)*
+	*Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020)*
 
 
 * What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues (2019)  [[Paper]]({{  }}/publications/ACL2019.pdf) [[Data]](https://github.com/GeminiLn/EarningsCall_Dataset)
