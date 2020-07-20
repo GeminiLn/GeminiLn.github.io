@@ -9,7 +9,7 @@ permalink: /publication/
 <br/>
 <br/>
 
-* Financial Risk Prediction with Multi-Round Q&A Attention Network (2020)
+* Financial Risk Prediction with Multi-Round Q&A Attention Network (2020) [[Paper]]({{  }}/publications/IJCAI2020.pdf)
 
 	Zhen Ye, **Yu Qin**, Wei Xu
 
