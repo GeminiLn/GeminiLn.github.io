@@ -8,7 +8,7 @@ permalink: /research/
 <br/>
 <br/>
 
-##### Working Papers:
+##### Working Papers
 
 * Unlocking the Power of Voice for Financial Risk Prediction: A Deep Learning Approach
 
