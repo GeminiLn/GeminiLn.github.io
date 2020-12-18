@@ -1,13 +1,24 @@
 ---
 layout: default
-title: Publication
+title: Research
 weight: 1
-permalink: /publication/
+permalink: /research/
 ---
 
 <br/>
 <br/>
 <br/>
+
+
+### Working Papers:
+
+* Unlocking the Power of Voice for Financial Risk Prediction: A Deep Learning Approach
+
+	With Yi Yang, Yangyang Fan and Zhongju Zhang
+	
+	*Under Major Revision at MIS Quarterly*
+
+### Publications
 
 * Financial Risk Prediction with Multi-Round Q&A Attention Network (2020) [[Paper]]({{  }}/publications/IJCAI2020.pdf)
 
