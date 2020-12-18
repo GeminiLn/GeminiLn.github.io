@@ -8,9 +8,8 @@ permalink: /research/
 <br/>
 <br/>
 <br/>
-
-
-### Working Papers:
+##### Working Papers:
+<br/>
 
 * Unlocking the Power of Voice for Financial Risk Prediction: A Deep Learning Approach
 
@@ -18,7 +17,8 @@ permalink: /research/
 	
 	*Under Major Revision at MIS Quarterly*
 
-### Publications
+##### Publications
+<br/>
 
 * Financial Risk Prediction with Multi-Round Q&A Attention Network (2020) [[Paper]]({{  }}/publications/IJCAI2020.pdf)
 
