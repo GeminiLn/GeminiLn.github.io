@@ -14,7 +14,7 @@ permalink: /research/
 
 	With Yi Yang, Yangyang Fan and Zhongju Zhang
 	
-	*Under Major Revision at MIS Quarterly*
+	*Under Major Revision*
 
 <br/>
 
