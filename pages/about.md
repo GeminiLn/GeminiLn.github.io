@@ -19,10 +19,10 @@ My research interests include **multimodal computing**, **data mining**, and **m
 <br>
 #### Education 
 <br>
-2020- Now &ensp;**David Eccles School of Business, University of Utah, UT**<br>
+2020- Now &ensp; &thinsp;**David Eccles School of Business, University of Utah, UT**<br>
 &emsp; &emsp; &emsp; &emsp; &emsp; Ph.D Student in Information Systems
 <br>
-2018-2020 &ensp; **School of Information, Renmin University of China, China**<br>
+2018-2020 &ensp; &thinsp;**School of Information, Renmin University of China, China**<br>
 &emsp; &emsp; &emsp; &emsp; &emsp; Ph.D Student in Computer Science
 <br>
 2014-2018 &ensp;  **School of Information, Renmin University of China, China**<br>
@@ -34,10 +34,10 @@ My research interests include **multimodal computing**, **data mining**, and **m
 #### Services
 <br>
 ##### Reviewer
-<br>
-Academic Journals: Web Intelligence Journal, Information Technology and Management
-<br>
-Academic Conferences: INFORMS Data Science Workshop2020, ICIS 2021, PACIS 2021
+
+Academic Journals: Web Intelligence Journal, Information Technology and Management <br>
+
+Academic Conferences: INFORMS Data Science Workshop2020, ICIS 2021, PACIS 2021 <br>
 
 
 
