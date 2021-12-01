@@ -20,7 +20,7 @@ My research interests include **multimodal computing**, **data mining**, and **m
 #### Education 
 <br>
 
-2021-2026 &ensp; &thinsp; **David Eccles School of Business, University of Utah, UT**<br>
+2021-2026 &ensp; **David Eccles School of Business, University of Utah, UT**<br>
 &emsp; &emsp; &emsp; &emsp; &emsp; Ph.D Student in Information Systems 
 <br>
 
