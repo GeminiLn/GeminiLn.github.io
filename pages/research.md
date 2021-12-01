@@ -14,7 +14,7 @@ permalink: /research/
 
 	With Yi Yang, Yangyang Fan and Zhongju Zhang
 	
-	*Under Major Revision*
+	*Under 2nd round Major Revision*
 
 <br/>
 
