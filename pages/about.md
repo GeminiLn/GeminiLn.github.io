@@ -37,7 +37,7 @@ My research interests include **multimodal computing**, **data mining**, and **m
 
 Academic Journals: Web Intelligence Journal, Information Technology and Management <br>
 
-Academic Conferences: INFORMS Data Science Workshop2020, ICIS 2021, PACIS 2021 <br>
+Academic Conferences: INFORMS Data Science Workshop 2020, ICIS 2021, PACIS 2021 <br>
 
 
 
