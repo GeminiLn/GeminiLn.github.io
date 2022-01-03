@@ -10,7 +10,7 @@ weight: 3
 
 Hi, I am **Yu Qin** <br>
 
-I am currently a Ph.D student at [David Eccles School of Business, University of Utah](https://eccles.utah.edu/). <br>
+I am currently a Ph.D student at [David Eccles School of Business, University of Utah](https://eccles.utah.edu/).<br>
 
 My research interests include **multimodal computing**, **data mining**, and **machine learning interpretation**. <br>
 
@@ -34,7 +34,7 @@ My research interests include **multimodal computing**, **data mining**, and **m
 ---
 
 <br>
-#### Services
+#### Professional Service
 <br>
 ##### Reviewer <br>
 <br>

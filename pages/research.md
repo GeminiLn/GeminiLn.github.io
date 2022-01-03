@@ -7,18 +7,15 @@ permalink: /research/
 
 <br/>
 <br/>
+##### Research
 
-##### Working Papers
+My research interests include **multimodal computing**, **data mining**, and **machine learning interpretation**. I am open to research questions regarding analytical prediction and decision-making on unstructured data.<br>
 
-* Unlocking the Power of Voice for Financial Risk Prediction: A Deep Learning Approach
-
-	With Yi Yang, Yangyang Fan and Zhongju Zhang
-	
-	*Under 2nd round Major Revision*
+[[Google Scholar]](https://scholar.google.com/citations?user=pSUNWFEAAAAJ)
 
 <br/>
 
-##### Publications
+##### Conference Publications
 
 * Financial Risk Prediction with Multi-Round Q&A Attention Network (2020) [[Paper]]({{  }}/research/IJCAI2020.pdf)
 
