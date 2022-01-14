@@ -9,7 +9,7 @@ permalink: /research/
 <br/>
 ##### Research
 
-My research interests include **multimodal computing**, **data mining**, and **machine learning interpretation**. I am open to research questions regarding analytical prediction and decision-making on unstructured data.<br>
+My research interests include **multimodal computing**, **natural language processing**, and **machine learning interpretation**. I am open to research questions regarding analytical prediction and decision-making on unstructured data.<br>
 
 [[Google Scholar]](https://scholar.google.com/citations?user=pSUNWFEAAAAJ)
 
