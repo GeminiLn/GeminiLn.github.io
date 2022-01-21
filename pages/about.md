@@ -45,7 +45,7 @@ Currently, my research interests include **multimodal computing**, **natural lan
 
 **Academic Journals**: Web Intelligence Journal, Information Technology and Management <br>
 
-**Academic Conferences**: INFORMS Data Science Workshop 2020, ICIS 2021, PACIS 2021 <br>
+**Academic Conferences**: INFORMS Data Science Workshop 2020, ICIS 2021, PACIS 2021, AOM 2022 <br>
 
 
 
