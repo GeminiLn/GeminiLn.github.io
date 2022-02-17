@@ -22,15 +22,15 @@ My research interests include **multimodal computing**, **natural language proce
 
 	with Yi Yang, Yangyang Fan, and Zhongju Zhang
 
-	*Under Minor Revision at MIS Quarterly*
+	Under Minor Revision at *MIS Quarterly*
 
 * A Document Analysis Deep Learning Regression Model for Initial Coin Offerings Success Pprediction
 
 	with Jiayue Wang, Runyu Chen, Wei Xu, and Yuanyuan Tang
 
-	*Under 2nd Round Review at Expert Systems With Applications*
+	Under 2nd Round Review at *Expert Systems With Applications*
 
-
+<br/>
 
 ##### Conference Publications
 
