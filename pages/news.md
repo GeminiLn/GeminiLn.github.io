@@ -9,6 +9,10 @@ permalink: /news/
 <br/>
 <br/>
 
+##### &emsp;2022
+
+* [May. 2022] Paper with Yi Yang, Yangyang Fan, and Zhongju Zhang accepted to MIS Quarterly.
+
 ##### &emsp;2020
 
 * [Apr. 2020] Paper with Zhen Ye and Wei Xu accepted to IJCAI 2020.
