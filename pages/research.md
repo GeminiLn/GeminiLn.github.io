@@ -38,11 +38,11 @@ My research interests include **multimodal computing**, **natural language proce
 
 	Zhen Ye, **Yu Qin**, Wei Xu
 
-	*Proceedings of the 29th International Joint Conference on Artificial Intelligence (**IJCAI** 2020)*
+	*Proceedings of the 29th International Joint Conference on Artificial Intelligence (**IJCAI'20**)*
 
 
 * What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues (2019)  [[Paper]]({{  }}/research/ACL2019.pdf) [[Data]](https://github.com/GeminiLn/EarningsCall_Dataset)
 
 	**Yu Qin**, Yi Yang
 
-	*Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (**ACL** 2019)*
+	*Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (**ACL'19**)*
