@@ -16,7 +16,7 @@ Before joining the University of Utah, I was honored to work with [Dr. Wei Xu](h
 
 Currently, my research interests include **multimodal computing**, **natural language processing**, **machine learning interpretation**, and applications in management science. Please find more about my research on [Research](https://yuqin.tech/research/). <br>
 
-Welcome to contact me via my [Email](mailto:yu.qin@eccles.utah.edu)
+Welcome to contact me via my [Email](mailto:yu.qin@eccles.utah.edu). <br>
 
 <br>
 
