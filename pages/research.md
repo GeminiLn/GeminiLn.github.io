@@ -18,11 +18,13 @@ My research interests include **multimodal computing**, **natural language proce
 
 ##### Journal Publications
 
+<!--
 * A Document Analysis Deep Learning Regression Model for Initial Coin Offerings Success Prediction
 
 	with Jiayue Wang, Runyu Chen, Wei Xu, and Yuanyuan Tang
 
 	Under 2nd Round Review at ***Expert Systems With Applications***
+-->
 
 * Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach
 
