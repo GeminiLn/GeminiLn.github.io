@@ -30,7 +30,7 @@ My research interests include **multimodal computing**, **natural language proce
 
 	with Yi Yang, Yangyang Fan, and Zhongju Zhang
 
-	***MIS Quarterly***. Accepted
+	***MIS Quarterly***. Forthcoming
 
 <br/>
 
