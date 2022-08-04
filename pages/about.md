@@ -34,7 +34,7 @@ Welcome to contact me via my [Email](mailto:yu.qin@eccles.utah.edu). <br>
 <br>
 
 2014-2018 &ensp; &thinsp;**School of Information, Renmin University of China, China**<br>
-&emsp; &emsp; &emsp; &emsp; &emsp; B.S. Computer Science & B.S. Financial Technology <br>
+&emsp; &emsp; &emsp; &emsp; &emsp; B.S. Computer Science & B.Econ. Financial Technology <br>
 
 <br>
 
