@@ -11,7 +11,7 @@ permalink: /news/
 
 ##### &emsp;2022
 
-* [May. 2022] I will present my research about cross-document modeling at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/) this October.
+* [May. 2022] I will present my research about cross-document modeling at [2022 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/) this October.
 * [May. 2022] Paper with Yi Yang, Yangyang Fan, and Zhongju Zhang accepted to MIS Quarterly.
 
 ##### &emsp;2020
