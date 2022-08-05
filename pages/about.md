@@ -17,7 +17,7 @@ Ph.D Student in Management Information Systems
 Ph.D Student in Computer Science 
 <br>
 
-2014-2018 &ensp; &thinsp;**School of Information, Renmin University of China, China**<br>
+2014-2018 &ensp; &thinsp;**School of Information & Hillhouse Academy, Renmin University of China, China**<br>
 B.S. Computer Science & B.Econ. Financial Technology <br>
 
 <br>
