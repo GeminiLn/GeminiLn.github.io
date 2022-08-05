@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-weight: 1
+weight: 2
 permalink: /research/
 ---
 
