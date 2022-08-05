@@ -5,6 +5,8 @@ permalink: /
 
 {% include landing.html %}
 
+<br>
+
 Hi, I am **Yu Qin** <br>
 
 I am currently a Ph.D student at [David Eccles School of Business, University of Utah](https://eccles.utah.edu/), advised by [Dr. Olivia Sheng](https://eccles.utah.edu/team/olivia-sheng/) and [Dr. Paul Hu](https://eccles.utah.edu/team/paul-hu/).<br>
