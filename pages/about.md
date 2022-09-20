@@ -9,12 +9,12 @@ permalink: /about/
 #### Education 
 <br>
 
-2021-2026 &ensp; **David Eccles School of Business, University of Utah, UT**<br>
+2021-Now &ensp; &ensp; **David Eccles School of Business, University of Utah, UT**<br>
 Ph.D Student in Management Information Systems 
 <br>
 
 2018-2021 &ensp; &thinsp;**School of Information, Renmin University of China, China**<br>
-Ph.D Student in Computer Science 
+Ph.D in Computer Science (ABD)
 <br>
 
 2014-2018 &ensp; &thinsp;**School of Information & Hillhouse Academy, Renmin University of China, China**<br>
