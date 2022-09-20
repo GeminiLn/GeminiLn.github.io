@@ -9,7 +9,7 @@ permalink: /about/
 #### Education 
 <br>
 
-2021-Now &ensp; &ensp; **David Eccles School of Business, University of Utah, UT**<br>
+2021-Now &thinsp; &ensp; **David Eccles School of Business, University of Utah, UT**<br>
 Ph.D Student in Management Information Systems 
 <br>
 
