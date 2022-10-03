@@ -49,7 +49,10 @@ My research interests include **multimodal computing**, **natural language proce
 
 	*Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (**ACL'19**)*
 
+<br/>
+
+
 ##### Presentations and Invited Talks
 
-* 2022: INFORMS Annual Meeting (Scheduled), UMass Lowell (Scheduled)
+* 2022: INFORMS Annual Meeting 2022 (Scheduled), UMass Lowell (Scheduled)
 * 2019: ACL'19
