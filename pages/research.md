@@ -54,5 +54,5 @@ My research interests include **multimodal computing**, **natural language proce
 
 ##### Presentations and Invited Talks
 
-* 2022: INFORMS Annual Meeting 2022 (Scheduled), UMass Lowell (Scheduled)
+* 2022: INFORMS Annual Meeting 2022, UMass Lowell (Manning)
 * 2019: ACL'19
