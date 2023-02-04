@@ -31,7 +31,7 @@ B.S. Computer Science & B.Econ. Financial Technology <br>
 
 **Academic Journals**: Web Intelligence Journal, Information Technology and Management <br>
 
-**Academic Conferences**: INFORMS Data Science Workshop 2020, ICIS 2021, PACIS 2021, AOM 2022, ICIS 2022 <br>
+**Academic Conferences**: INFORMS Data Science Workshop 2020, ICIS (2021, 2022), PACIS 2021, AOM (2022, 2023) <br>
 
 
 
