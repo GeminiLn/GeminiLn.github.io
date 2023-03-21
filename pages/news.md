@@ -9,6 +9,10 @@ permalink: /news/
 <br/>
 <br/>
 
+##### &emsp;2023
+
+* [Mar. 2023] Paper with Paul Hu and Olivia Sheng accepted to INFORMS Information Systems Society Paper Development Workshop.
+
 ##### &emsp;2022
 
 * [Oct. 2022] I'm invited to give a talk about our recently accepted paper *Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach* at the Manning School of Business, UMass Lowell.
