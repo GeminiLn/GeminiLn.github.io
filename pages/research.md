@@ -26,11 +26,11 @@ My research interests include **multimodal computing**, **natural language proce
 	Under 2nd Round Review at ***Expert Systems With Applications***
 -->
 
-* Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach
+* Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach (2023)
 
 	with Yi Yang, Yangyang Fan, and Zhongju Zhang
 
-	***MIS Quarterly***. Forthcoming
+	***MIS Quarterly*** 47 (1).
 
 <br/>
 
