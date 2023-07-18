@@ -10,15 +10,15 @@ permalink: /about/
 <br>
 
 2023-Now &thinsp; &ensp; **W. P. Carey School of Business, Arizona State University, AZ**<br>
-Ph.D Candidate in Management Information Systems 
+Ph.D. Candidate in Management Information Systems 
 <br>
 
 2021-2023 &thinsp; &ensp; **David Eccles School of Business, University of Utah, UT**<br>
-Ph.D Student in Management Information Systems 
+Ph.D. Student in Management Information Systems 
 <br>
 
 2018-2021 &ensp; &thinsp;**School of Information, Renmin University of China, China**<br>
-Ph.D in Computer Science (ABD)
+Ph.D. in Computer Science (ABD)
 <br>
 
 2014-2018 &ensp; &thinsp;**School of Information & Hillhouse Academy, Renmin University of China, China**<br>
