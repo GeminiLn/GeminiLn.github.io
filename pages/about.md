@@ -9,7 +9,11 @@ permalink: /about/
 #### Education 
 <br>
 
-2021-Now &thinsp; &ensp; **David Eccles School of Business, University of Utah, UT**<br>
+2023-Now &thinsp; &ensp; **W. P. Carey School of Business, Arizona State University, AZ**<br>
+Ph.D Candidate in Management Information Systems 
+<br>
+
+2021-2023 &thinsp; &ensp; **David Eccles School of Business, University of Utah, UT**<br>
 Ph.D Student in Management Information Systems 
 <br>
 
