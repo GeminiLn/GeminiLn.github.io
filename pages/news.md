@@ -11,6 +11,8 @@ permalink: /news/
 
 ##### &emsp;2023
 
+* [Aug. 2023] I'll join ASU W. P. Carey School of Business as a Ph.D. Candidate with Prof. Olivia Sheng in Fall 2023.
+* [May. 2023] Passing my doctoral qualifying exam!
 * [Mar. 2023] Paper with Paul Hu and Olivia Sheng accepted to INFORMS Information Systems Society Paper Development Workshop.
 
 ##### &emsp;2022
@@ -22,7 +24,7 @@ permalink: /news/
 ##### &emsp;2020
 
 * [Apr. 2020] Paper with Zhen Ye and Wei Xu accepted to IJCAI 2020.
-* [Mar. 2020] I will join Eccles School of Business, University of Utah as a Ph.D Student in 2020 Fall, working with Prof. Olivia Sheng (Deferred to 2021 Fall).
+* [Mar. 2020] I will join Eccles School of Business, University of Utah as a Ph.D Student in Fall 2020, working with Prof. Olivia Sheng (Deferred to Fall 2023).
 
 <br/>
 
