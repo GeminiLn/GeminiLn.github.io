@@ -17,4 +17,4 @@ Currently, my research interests include **multimodal computing**, **natural lan
 
 **I am on the 2025–2026 academic job market and welcome opportunities to connect.**  <br>
 
-Feel free to contact me via [Email](mailto:yuqin@asu.edu). <br>
+Feel free to contact me via [email](mailto:yuqin@asu.edu). <br>
