@@ -1,4 +1,4 @@
----
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/addf37c3-feaa-4329-a473-99bf75045df6" />---
 layout: default
 title: Research
 weight: 2
@@ -9,7 +9,7 @@ permalink: /research/
 <br/>
 ##### Research
 
-My research interests include **multimodal computing**, **natural language processing**, **machine learning interpretation**, and applications in management science. I am open to research questions regarding analytical prediction and decision-making on unstructured data.<br>
+My research interests include **multimodal computing**, **natural language processing**, **large language model interpretation**, and applications in management science. I am also open to exploring research questions regarding predictive analytics and decision-making with unstructured data.<br>
 
 [[Google Scholar]](https://scholar.google.com/citations?user=pSUNWFEAAAAJ)
 
@@ -17,14 +17,6 @@ My research interests include **multimodal computing**, **natural language proce
 
 
 ##### Journal Publications
-
-<!--
-* A Document Analysis Deep Learning Regression Model for Initial Coin Offerings Success Prediction
-
-	with Jiayue Wang, Runyu Chen, Wei Xu, and Yuanyuan Tang
-
-	Under 2nd Round Review at ***Expert Systems With Applications***
--->
 
 * Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach (2023)
 
@@ -51,8 +43,37 @@ My research interests include **multimodal computing**, **natural language proce
 
 <br/>
 
+#### Working Papers 
+
+* Cross-Document Modeling for Financial Risk Predictions: A Concept-Guided Deep Learning Method
+
+	with Paul J. Hu and Olivia R. Liu Sheng
+
+	Under 1st-round review at ***Information Systems Research***
+
+
+* A Multi-Task Evaluation of LLMs' Processing of Academic Text Input
+
+	with Tianyi Li and Olivia R. Liu Sheng
+
+	Under 1st-round review at ***Management Science***
+
+* Learning from User Experience: A Deep Matching Embedding Approach on Gaming Platform
+
+	with Kan Xu and Olivia R. Liu Sheng
+
+	Manuscript in preparation
+
+
+* Uncovering the Mechanisms of Large Language Models in Behavior Modeling
+
+	with Olivia R. Liu Sheng
+
+	Manuscript in preparation
 
 ##### Presentations and Invited Talks
 
+* 2025: INFORMS Annual Meeting 2025 (scheduled)
+* 2024: INFORMS Annual Meeting 2024, WITS, GSU (J. Mack Robinson)
 * 2022: INFORMS Annual Meeting 2022, UMass Lowell (Manning)
-* 2019: ACL'19
+* 2019: ACL 2019
