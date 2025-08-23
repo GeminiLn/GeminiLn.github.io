@@ -1,4 +1,4 @@
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/addf37c3-feaa-4329-a473-99bf75045df6" />---
+---
 layout: default
 title: Research
 weight: 2
