@@ -7,7 +7,7 @@ permalink: /research/
 
 <br/>
 <br/>
-##### Research
+#### Research
 
 My research interests include **multimodal computing**, **natural language processing**, **large language model interpretation**, and applications in management science. I am also open to exploring research questions regarding predictive analytics and decision-making with unstructured data.<br>
 
@@ -16,7 +16,7 @@ My research interests include **multimodal computing**, **natural language proce
 <br/>
 
 
-##### Journal Publications
+#### Journal Publications
 
 * Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach (2023)
 
@@ -26,7 +26,7 @@ My research interests include **multimodal computing**, **natural language proce
 
 <br/>
 
-##### Conference Publications
+#### Conference Publications
 
 * Financial Risk Prediction with Multi-Round Q&A Attention Network (2020) [[Paper]]({{  }}/research/IJCAI2020.pdf)
 
@@ -71,7 +71,7 @@ My research interests include **multimodal computing**, **natural language proce
 
 	Manuscript in preparation
 
-##### Presentations and Invited Talks
+#### Presentations and Invited Talks
 
 * 2025: INFORMS Annual Meeting 2025 (scheduled)
 * 2024: INFORMS Annual Meeting 2024, WITS, GSU (J. Mack Robinson)
