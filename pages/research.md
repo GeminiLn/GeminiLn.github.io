@@ -7,7 +7,7 @@ permalink: /research/
 
 <br/>
 <br/>
-#### Research
+### Research
 
 My research interests include **multimodal computing**, **natural language processing**, **large language model interpretation**, and applications in management science. I am also open to exploring research questions regarding predictive analytics and decision-making with unstructured data.<br>
 
