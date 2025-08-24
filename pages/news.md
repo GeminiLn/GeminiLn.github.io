@@ -9,6 +9,10 @@ permalink: /news/
 <br/>
 <br/>
 
+##### &emsp;2025
+
+* [Aug. 2025] Presentation on LLM Interpretation scheduled at [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/).
+
 ##### &emsp;2023
 
 * [Aug. 2023] I'll join ASU W. P. Carey School of Business as a Ph.D. Candidate with Prof. Olivia Sheng in Fall 2023.
