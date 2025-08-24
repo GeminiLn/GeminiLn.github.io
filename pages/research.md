@@ -73,7 +73,7 @@ My research interests include **multimodal computing**, **natural language proce
 
 #### Presentations and Invited Talks
 
-* 2025: INFORMS Annual Meeting 2025 (scheduled)
+* 2025: INFORMS Annual Meeting 2025 (scheduled), INFORMS Workshop on Data Science (scheduled)
 * 2024: INFORMS Annual Meeting 2024, WITS, GSU (J. Mack Robinson)
 * 2022: INFORMS Annual Meeting 2022, UMass Lowell (Manning)
 * 2019: ACL 2019
