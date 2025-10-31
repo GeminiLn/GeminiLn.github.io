@@ -49,7 +49,7 @@ My research interests include **multimodal computing**, **natural language proce
 
 	with Paul J. Hu and Olivia R. Liu Sheng
 
-	Under 1st-round review at ***Information Systems Research***
+	Under Major Revision at ***Information Systems Research***
 
 
 * A Multi-Task Evaluation of LLMs' Processing of Academic Text Input
