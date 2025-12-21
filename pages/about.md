@@ -33,7 +33,7 @@ B.S. Computer Science & B.Econ. Financial Technology <br>
 ##### Referee <br>
 <br>
 
-**Academic Journals**: Service Science, ACM Transactions on Management Information Systems, Web Intelligence Journal, Information Technology and Management <br>
+**Academic Journals**: MIS Quarterly, Operations Research, Service Science, ACM Transactions on Management Information Systems, Web Intelligence Journal, Information Technology and Management <br>
 
 **Academic Conferences**: INFORMS Data Science Workshop 2020, ICIS (2021, 2022, 2023, 2024, 2025), PACIS 2021, ECIS 2024, AOM (2022, 2023, 2024), HICSS 2024, WITS 2025 <br>
 
