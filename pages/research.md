@@ -65,7 +65,7 @@ My research interests include **multimodal computing**, **natural language proce
 	Manuscript in preparation
 
 
-* Uncovering the Mechanisms of Large Language Models in Behavior Modeling
+* Uncovering the Internal Mechanisms of Large Language Models in Decision-Making under Risk
 
 	with Olivia R. Liu Sheng
 
