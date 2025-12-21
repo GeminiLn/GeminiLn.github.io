@@ -11,6 +11,8 @@ permalink: /news/
 
 ##### &emsp;2025
 
+* [Dec. 2025] Paper with Olivia R. Liu Sheng won the **WITS 2025 Best Student Paper Award Runner-Up**.
+* [Dec. 2025] Two papers accepted to [WITS 2025](https://witsconf.org/).
 * [Aug. 2025] Selected for the [ICIS 2025 Doctoral Consortium](https://icis2025.aisconferences.org/events/doctoral-consortium/).
 * [Aug. 2025] Paper on LLM Interpretation accepted to [INFORMS Workshop on Data Science 2025](https://sites.google.com/view/data-science-2025/).
 * [Aug. 2025] Presentation on LLM Interpretation scheduled at [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/).
