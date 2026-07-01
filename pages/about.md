@@ -9,7 +9,7 @@ permalink: /about/
 #### Education 
 <br>
 
-2023-Now &thinsp; &ensp; **W. P. Carey School of Business, Arizona State University, AZ**<br>
+2023-2026 &thinsp; &ensp; **W. P. Carey School of Business, Arizona State University, AZ**<br>
 Ph.D. in Management Information Systems 
 <br>
 
