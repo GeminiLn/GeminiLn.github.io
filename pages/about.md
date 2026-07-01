@@ -8,7 +8,7 @@ permalink: /about/
 #### Academic Appointments
 <br>
 
-2026-Now &ensp; &thinsp;**CUHK Business School, The Chinese University of Hong Kong, Hong Kong**<br>
+2026-Now &thinsp; &ensp; **CUHK Business School, The Chinese University of Hong Kong, Hong Kong**<br>
 Assistant Professor <br>
 
 <br>
@@ -26,11 +26,11 @@ Ph.D. in Management Information Systems
 Ph.D. Candidate in Management Information Systems (Transferred to ASU)
 <br>
 
-2018-2021 &ensp; &thinsp;**School of Information, Renmin University of China, China**<br>
+2018-2021 &thinsp; &ensp; **School of Information, Renmin University of China, China**<br>
 Ph.D. in Computer Science
 <br>
 
-2014-2018 &ensp; &thinsp;**School of Information & Hillhouse Academy, Renmin University of China, China**<br>
+2014-2018 &thinsp; &ensp; **School of Information & Hillhouse Academy, Renmin University of China, China**<br>
 B.S. Computer Science & B.Econ. Financial Technology <br>
 
 <br>
