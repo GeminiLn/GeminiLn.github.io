@@ -4,7 +4,16 @@ title: About
 weight: 3
 permalink: /about/
 ---
+<br>
+#### Academic Appointments
+<br>
 
+2026-Now &ensp; &thinsp;**CUHK Business School, The Chinese University of Hong Kong, Hong Kong**<br>
+Assistant Professor <br>
+
+<br>
+
+---
 <br>
 #### Education 
 <br>
