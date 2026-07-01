@@ -9,6 +9,9 @@ permalink: /news/
 <br/>
 <br/>
 
+##### &emsp;2026
+* [Jan. 2026] I will join CUHK Business School as an Assistant Professor in Fall 2026.
+
 ##### &emsp;2025
 
 * [Dec. 2025] Paper with Olivia R. Liu Sheng won the **WITS 2025 Best Student Paper Award Runner-Up**.
