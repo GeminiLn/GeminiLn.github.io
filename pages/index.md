@@ -7,7 +7,7 @@ permalink: /
 
 <br>
 
-Hi, I am **Yu Qin** <br>
+Hi, I am **Yu Qin**. <br>
 
 I received my Ph.D. in Management Information Systems from the [W. P. Carey School of Business, Arizona State University](https://wpcarey.asu.edu/), advised by [Dr. Olivia R. Liu Sheng](https://search.asu.edu/profile/4830637) and [Dr. Paul J. Hu](https://eccles.utah.edu/team/paul-hu/). Additionally, I hold a Ph.D. in Computer Science from Renmin University of China. Prior to joining ASU, I was a Ph.D. student at [David Eccles School of Business, University of Utah](https://eccles.utah.edu/) from 2021 to 2023.<br>
 
