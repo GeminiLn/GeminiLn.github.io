@@ -15,6 +15,6 @@ Before my time at the University of Utah, I had the privilege of working with [D
 
 Currently, my research interests include **multimodal computing**, **natural language processing**, **large language model interpretation**, and applications in management science. Please find more about my research on [Research](https://yuqin.tech/research/). <br>
 
-**I will be joining CUHK Business School as an Assistant Professor in Fall 2026.**  <br>
+**I will be joining [CUHK Business School](https://www.bschool.cuhk.edu.hk/) as an Assistant Professor in Fall 2026.**  <br>
 
 Feel free to contact me via [email](mailto:yuqin@asu.edu). <br>
