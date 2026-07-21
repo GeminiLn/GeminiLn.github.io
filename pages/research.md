@@ -49,14 +49,14 @@ My research interests include **multimodal computing**, **natural language proce
 
 	with Paul J. Hu and Olivia R. Liu Sheng
 
-	Under Major Revision at ***Information Systems Research***
+	Under Major Revision
 
 
 * A Multi-Task Evaluation of LLMs' Processing of Academic Text Input
 
 	with Tianyi Li and Olivia R. Liu Sheng
 
-	Under review at ***Management Science***
+	Pending submission
 
 * Learning from User Experience: A Deep Matching Embedding Approach on Gaming Platform
 
