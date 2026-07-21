@@ -1,13 +1,13 @@
 ### Site Settings ###
 title               : Yu Qin
-description         : >-
-#                      "Wit Beyond Measure is Man's Greatest Treasure"                 
+description         : "Assistant Professor at CUHK Business School — NLP, multimodal computing, and LLM interpretation."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : GeminiLn/GeminiLn.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) 
+repository          : GeminiLn/GeminiLn.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-sitemap
 
 
 ### Navbar Settings ###
@@ -26,7 +26,7 @@ author:
   image             : https://s2.loli.net/2025/08/24/fib4k7zmglAtD6Y.jpg
 # behance           : your_username
 # dribbble          : your_username
-  email             : yuqin@asu.edu
+  email             : yuqin@cuhk.edu.hk
 # facebook          : your_username
   github            : GeminiLn
 # gitlab            : your_username

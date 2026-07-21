@@ -28,14 +28,14 @@ My research interests include **multimodal computing**, **natural language proce
 
 #### Conference Publications
 
-* Financial Risk Prediction with Multi-Round Q&A Attention Network (2020) [[Paper]]({{  }}/research/IJCAI2020.pdf)
+* Financial Risk Prediction with Multi-Round Q&A Attention Network (2020) [[Paper]]({{ '/research/IJCAI2020.pdf' | relative_url }})
 
 	Zhen Ye, **Yu Qin**, Wei Xu
 
 	*Proceedings of the 29th International Joint Conference on Artificial Intelligence (**IJCAI'20**)*
 
 
-* What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues (2019)  [[Paper]]({{  }}/research/ACL2019.pdf) [[Data]](https://github.com/GeminiLn/EarningsCall_Dataset)
+* What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues (2019)  [[Paper]]({{ '/research/ACL2019.pdf' | relative_url }}) [[Data]](https://github.com/GeminiLn/EarningsCall_Dataset)
 
 	**Yu Qin**, Yi Yang
 
